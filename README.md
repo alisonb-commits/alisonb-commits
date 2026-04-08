@@ -5,7 +5,7 @@ I work across frontend, UI/UX, branding, and web development.
 
 - 🌱 Currently learning cloud, security, and deeper frontend engineering
 - 👩‍💻 Building websites, apps, and digital brands
-- ⚡ Fun fact: I’m also a techno DJ
+- ⚡ Fun fact: I’m also a techno DJ and Producer
 - 💬 Ask me about React, Tailwind, UI/UX, branding, or creative dev
 - 🖤 Motto: “design meets engineering”
 
@@ -27,5 +27,5 @@ I work across frontend, UI/UX, branding, and web development.
 
 ## 🌍 Connect
 
-- Portfolio: (https://portfolio-website1-delta-two.vercel.app/index.html)
-- Studio: (https://www.belledigitalstudio.com/)
+- ![Portfolio:] (https://portfolio-website1-delta-two.vercel.app/index.html)
+- ![Studio:] (https://www.belledigitalstudio.com/)
