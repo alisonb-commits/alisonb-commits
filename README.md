@@ -27,5 +27,5 @@ I work across frontend, UI/UX, branding, and web development.
 
 ## 🌍 Connect
 
-- ![Portfolio:] (https://portfolio-website1-delta-two.vercel.app/index.html)
-- ![Studio:] (https://www.belledigitalstudio.com/)
+- ![Portfolio:](https://portfolio-website1-delta-two.vercel.app/index.html)
+- ![Studio:](https://www.belledigitalstudio.com/)
